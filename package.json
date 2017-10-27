@@ -2,7 +2,7 @@
   "name": "cpu-stat-browser",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "start http://localhost:8081/dist/test/ && webpack-dev-server",
     "build": "babel src -d dist --copy-files "
