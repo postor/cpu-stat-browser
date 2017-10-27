@@ -14,4 +14,4 @@ npm install cpu-stat-browser
 npm run test
 ```
 
-[test code]('./src/test/index.js')
+[test code](./src/test/index.js)
